@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">InnupWidget</string>
+    <string name="main_activity">主界面</string>
 </resources>
